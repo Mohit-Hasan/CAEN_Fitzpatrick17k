@@ -57,3 +57,6 @@ Contains explainable AI (XAI) visualizations to interpret model predictions:
 
 ---
 
+## Archive
+
+- [Medrxiv (Archive)](https://medrxiv.org/cgi/content/short/2024.12.11.24318858v1)
